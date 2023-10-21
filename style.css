@@ -1,0 +1,26 @@
+body{
+    background-image: url(backgroundpg.jpg);
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+    text-align: center;
+}
+button {
+    min-width: 250px;
+    color: white;
+    font-size: 1.5rem;
+    padding: 10px;
+}
+#save1{
+    background-color:blue
+}
+#save2{
+    background-color: green;
+}
+#reset{
+    background-color: black;
+}
+h1, h2{
+    font-size: 3rem;
+}
